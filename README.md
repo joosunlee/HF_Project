@@ -1,7 +1,7 @@
 # HF_Project
 
 - 🧠DistilBERT 기반 감정 분석 프로젝트
-- Hugging Face의 사전 학습된 DistilBERT 모델인
+  - Hugging Face의 사전 학습된 DistilBERT 모델인
 distilbert-base-uncased-finetuned-sst-2-english를 사용하여
 텍스트 데이터를 긍정(positive) 또는 부정(negative) 감정으로 분류합니다.
 
