@@ -18,9 +18,9 @@ Hugging Face의 감정 분석 모델로 텍스트 감정을 분류합니다.
 분석된 결과를 출력합니다.
 
 설치 명령어
-"""
+```
 pip install torch transformers pandas
-"""
+```
 
 📈 사용된 모델 정보
 모델 이름: distilbert-base-uncased-finetuned-sst-2-english
